@@ -1,0 +1,170 @@
+{
+    "zed_0": {
+        "LEFT_HANDED_Y_UP": {
+            "euler_angles_degrees": {
+                "x": "22.881741",
+                "y": "136.358603",
+                "z": "0.283512"
+            },
+            "euler_angles_radians": {
+                "x": "0.399362",
+                "y": "2.379907",
+                "z": "0.004948"
+            },
+            "example_applications": "Unity",
+            "translation_meters": {
+                "tx": "-2.136397",
+                "ty": "1.738597",
+                "tz": "1.106217"
+            }
+        },
+        "RIGHT_HANDED_Y_UP": {
+            "euler_angles_degrees": {
+                "x": "-22.881741",
+                "y": "-136.358603",
+                "z": "0.283512"
+            },
+            "euler_angles_radians": {
+                "x": "-0.399362",
+                "y": "-2.379907",
+                "z": "0.004948"
+            },
+            "example_applications": "Maya",
+            "translation_meters": {
+                "tx": "-2.136397",
+                "ty": "1.738597",
+                "tz": "-1.106217"
+            }
+        },
+        "RIGHT_HANDED_Z_UP": {
+            "euler_angles_degrees": {
+                "x": "67.388625",
+                "y": "-179.608234",
+                "z": "-43.640728"
+            },
+            "euler_angles_radians": {
+                "x": "1.176153",
+                "y": "-3.134755",
+                "z": "-0.761674"
+            },
+            "example_applications": "Blender",
+            "translation_meters": {
+                "tx": "-2.136397",
+                "ty": "1.106217",
+                "tz": "1.738597"
+            }
+        }
+    },
+    "zed_1": {
+        "LEFT_HANDED_Y_UP": {
+            "euler_angles_degrees": {
+                "x": "15.783611",
+                "y": "174.016591",
+                "z": "-1.033175"
+            },
+            "euler_angles_radians": {
+                "x": "0.275476",
+                "y": "3.037163",
+                "z": "-0.018032"
+            },
+            "example_applications": "Unity",
+            "translation_meters": {
+                "tx": "-0.128848",
+                "ty": "1.219904",
+                "tz": "1.770084"
+            }
+        },
+        "RIGHT_HANDED_Y_UP": {
+            "euler_angles_degrees": {
+                "x": "-15.783611",
+                "y": "-174.016591",
+                "z": "-1.033175"
+            },
+            "euler_angles_radians": {
+                "x": "-0.275476",
+                "y": "-3.037163",
+                "z": "-0.018032"
+            },
+            "example_applications": "Maya",
+            "translation_meters": {
+                "tx": "-0.128848",
+                "ty": "1.219904",
+                "tz": "-1.770084"
+            }
+        },
+        "RIGHT_HANDED_Z_UP": {
+            "euler_angles_degrees": {
+                "x": "74.108104",
+                "y": "178.961156",
+                "z": "-5.982434"
+            },
+            "euler_angles_radians": {
+                "x": "1.293430",
+                "y": "3.123461",
+                "z": "-0.104413"
+            },
+            "example_applications": "Blender",
+            "translation_meters": {
+                "tx": "-0.128848",
+                "ty": "1.770084",
+                "tz": "1.219904"
+            }
+        }
+    },
+    "zed_2": {
+        "LEFT_HANDED_Y_UP": {
+            "euler_angles_degrees": {
+                "x": "25.851835",
+                "y": "-127.267649",
+                "z": "-0.497384"
+            },
+            "euler_angles_radians": {
+                "x": "0.451200",
+                "y": "-2.221240",
+                "z": "-0.008681"
+            },
+            "example_applications": "Unity",
+            "translation_meters": {
+                "tx": "1.931536",
+                "ty": "1.706305",
+                "tz": "1.106673"
+            }
+        },
+        "RIGHT_HANDED_Y_UP": {
+            "euler_angles_degrees": {
+                "x": "-25.851835",
+                "y": "127.267649",
+                "z": "-0.497384"
+            },
+            "euler_angles_radians": {
+                "x": "-0.451200",
+                "y": "2.221240",
+                "z": "-0.008681"
+            },
+            "example_applications": "Maya",
+            "translation_meters": {
+                "tx": "1.931536",
+                "ty": "1.706305",
+                "tz": "-1.106673"
+            }
+        },
+        "RIGHT_HANDED_Z_UP": {
+            "euler_angles_degrees": {
+                "x": "64.801800",
+                "y": "179.178642",
+                "z": "52.729513"
+            },
+            "euler_angles_radians": {
+                "x": "1.131005",
+                "y": "3.127257",
+                "z": "0.920304"
+            },
+            "example_applications": "Blender",
+            "translation_meters": {
+                "tx": "1.931536",
+                "ty": "1.106673",
+                "tz": "1.706305"
+            }
+        }
+    }
+}
